@@ -1,6 +1,6 @@
 ### Project-ыг ажлуулах заавар
 ```
-cd React-Example_Verify4js
+cd React-Example-Verify4js
 ```
 ```
 npm start
